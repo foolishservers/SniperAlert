@@ -1,5 +1,7 @@
 # SniperAlert
 
+https://youtu.be/m-_cWSNmtiA
+
 Cvar
 sm_snipervm_enabled Def 1 Enable Disable.
 
@@ -12,3 +14,5 @@ sm_snipervm_voice Def (Voice)
 
 
 These two cvars are settings for servers that use different languages.
+
+
