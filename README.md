@@ -21,7 +21,7 @@ sm_snipervm_voice "(FOOL)", sm_snipervm_text "I LOVE YOU"
 ```
 ***
 ### Credit
-Dilmah(aka cfnnit) \
+Dilmah \
 Sandy \
 [Original Workshop Idea](https://steamcommunity.com/sharedfiles/filedetails/?id=2963788788)
 
