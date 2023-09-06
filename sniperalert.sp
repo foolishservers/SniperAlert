@@ -1,5 +1,3 @@
-//If you're interested in seeing the code, sorry!
-//Comment It's written in Korean.
 #include <sourcemod>
 #include <tf2_stocks>
 
