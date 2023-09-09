@@ -68,7 +68,7 @@ public Action Cmd_VoiceMenu(int client, const char[] command, int argc) {
 					Format(message, sizeof(message), "\x07FF3D3D%s %s\x01: %s", conVarVoice, clientName, conVarText);
 				}
 				case TFTeam_Blue: {
-					Format(message, sizeof(message), "\x07516D84%s %s\x01: %s", conVarVoice, clientName, conVarText);
+					Format(message, sizeof(message), "\x09ACDFF%s %s\x01: %s", conVarVoice, clientName, conVarText);
 				}
 				default: {
 					Format(message, sizeof(message), "\x03%s %s\x01: %s", conVarVoice, clientName, conVarText); // SourceTV?
