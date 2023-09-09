@@ -14,7 +14,7 @@ These two cvars are settings for servers that use different languages.
 Example: 
 sm_snipervm_voice "(음성)", sm_snipervm_text "스나이퍼다!"
 (음성) Username: 스나이퍼다!
-sm_snipervm_voicet "(陰性)", sm_snipervm_text "スナイパー！"
+sm_snipervm_voice "(陰性)", sm_snipervm_text "スナイパー！"
 (陰性) Username: スナイパー！
 sm_snipervm_voice "(FOOL)", sm_snipervm_text "I LOVE YOU"
 (FOOL) Username: I LOVE YOU
